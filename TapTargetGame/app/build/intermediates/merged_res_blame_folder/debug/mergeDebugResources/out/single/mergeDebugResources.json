@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.taptarget.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.taptarget.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.taptarget.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.taptarget.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
